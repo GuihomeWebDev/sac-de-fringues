@@ -843,6 +843,6 @@ class __TwigTemplate_9c7c3b506c6e0d393ffc7144ae5648781a933bcf5941f2116f06dd4168a
     </table>
     {% endfor %}
 {% endmacro %}
-", "@WebProfiler/Collector/messenger.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Collector/messenger.html.twig");
+", "@WebProfiler/Collector/messenger.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/symfony/web-profiler-bundle/Resources/views/Collector/messenger.html.twig");
     }
 }

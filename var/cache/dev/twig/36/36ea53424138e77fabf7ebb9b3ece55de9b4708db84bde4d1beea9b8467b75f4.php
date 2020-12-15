@@ -1175,6 +1175,6 @@ class __TwigTemplate_2152563e22d87e25dff411196e0ae3b8755bd53be9390db3bb268bd18fa
         <span>{{ route|default(controller) }}</span>
     {%- endif %}
 {% endmacro %}
-", "@WebProfiler/Collector/request.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
+", "@WebProfiler/Collector/request.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
     }
 }

@@ -125,6 +125,6 @@ class __TwigTemplate_b54368822560cd1f39b392cf18bd8af5fe97fcfead8d2c736f9ebc9d069
 .exception-message-wrapper .container {
     min-height: auto;
 }
-", "@WebProfiler/Collector/exception.css.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
+", "@WebProfiler/Collector/exception.css.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
     }
 }

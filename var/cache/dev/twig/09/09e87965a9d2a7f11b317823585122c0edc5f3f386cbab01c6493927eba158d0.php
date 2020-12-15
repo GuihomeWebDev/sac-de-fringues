@@ -130,6 +130,6 @@ class __TwigTemplate_e9f01d3fa4afc7d9238965e77e36772f0c345abe97e8d631c9aa0fd1602
         <a href=\"{{ path('home') }}\" class=\"btn btn-info\">Revenir à l'accueil</a>
     </div>
 {% endblock %}
-", "@Twig/Exception/error.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/bundles/TwigBundle/Exception/error.html.twig");
+", "@Twig/Exception/error.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/bundles/TwigBundle/Exception/error.html.twig");
     }
 }

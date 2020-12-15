@@ -160,6 +160,6 @@ class __TwigTemplate_28655fb91b97743527d0742d213bcf894accc9a31654446604c27e29d48
 
     {{ include('@WebProfiler/Profiler/toolbar_item.html.twig', { link: profiler_url, name: 'time', status: status_color }) }}
 {% endblock %}
-", "@WebProfiler/Collector/memory.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Collector/memory.html.twig");
+", "@WebProfiler/Collector/memory.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/symfony/web-profiler-bundle/Resources/views/Collector/memory.html.twig");
     }
 }

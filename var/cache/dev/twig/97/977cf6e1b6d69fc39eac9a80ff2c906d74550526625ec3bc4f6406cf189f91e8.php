@@ -65,7 +65,7 @@ class __TwigTemplate_01918b405026e7607a0bca357f75d0e0ad8462e01cadd52faa287c7639e
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Valider ma commande - La Boutique Française";
+        echo "Valider ma commande - Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -195,7 +195,7 @@ class __TwigTemplate_01918b405026e7607a0bca357f75d0e0ad8462e01cadd52faa287c7639e
     {
         return new Source("{% extends 'base.html.twig' %}
 
-{% block title %}Valider ma commande - La Boutique Française{% endblock %}
+{% block title %}Valider ma commande - Sac de fringues{% endblock %}
 
 {% block content %}
     <h2>Je passe ma commande</h2>
@@ -235,6 +235,6 @@ class __TwigTemplate_01918b405026e7607a0bca357f75d0e0ad8462e01cadd52faa287c7639e
         </div>
     </div>
 {% endblock %}
-", "order/index.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/order/index.html.twig");
+", "order/index.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/order/index.html.twig");
     }
 }

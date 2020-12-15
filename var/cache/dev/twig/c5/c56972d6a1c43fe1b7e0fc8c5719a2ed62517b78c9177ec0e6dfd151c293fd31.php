@@ -65,7 +65,7 @@ class __TwigTemplate_740d3b22bbb7462a82ad1a0d07b0cab1e9a725f18cbabb3f2012837a39a
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Confirmation de commande - La Boutique Française";
+        echo "Confirmation de commande - Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -144,7 +144,7 @@ class __TwigTemplate_740d3b22bbb7462a82ad1a0d07b0cab1e9a725f18cbabb3f2012837a39a
     {
         return new Source("{% extends 'base.html.twig' %}
 
-{% block title %}Confirmation de commande - La Boutique Française{% endblock %}
+{% block title %}Confirmation de commande - Sac de fringues{% endblock %}
 
 {% block content %}
     <h2>Confirmation de commande</h2>
@@ -159,6 +159,6 @@ class __TwigTemplate_740d3b22bbb7462a82ad1a0d07b0cab1e9a725f18cbabb3f2012837a39a
     Pour suivre votre commande, rendez-vous dans votre <a href=\"{{ path('account_order') }}\">compte</a>.
     </p>
 {% endblock %}
-", "order_success/index.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/order_success/index.html.twig");
+", "order_success/index.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/order_success/index.html.twig");
     }
 }

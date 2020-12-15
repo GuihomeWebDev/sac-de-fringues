@@ -65,7 +65,7 @@ class __TwigTemplate_960f3fcc0084f885df5e927e2652d897b564048bf35390406977822a769
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Modifier mon mot de passe - La Boutique Française";
+        echo "Modifier mon mot de passe - Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -133,7 +133,7 @@ class __TwigTemplate_960f3fcc0084f885df5e927e2652d897b564048bf35390406977822a769
     {
         return new Source("{% extends 'base.html.twig' %}
 
-{% block title %}Modifier mon mot de passe - La Boutique Française{% endblock %}
+{% block title %}Modifier mon mot de passe - Sac de fringues{% endblock %}
 
 {% block content %}
     <h1>Modifier mon mot de passe</h1>
@@ -144,6 +144,6 @@ class __TwigTemplate_960f3fcc0084f885df5e927e2652d897b564048bf35390406977822a769
     {% endif %}
     {{ form(form) }}
     <hr>
-{% endblock %}", "account/password.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/account/password.html.twig");
+{% endblock %}", "account/password.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/account/password.html.twig");
     }
 }

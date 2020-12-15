@@ -88,7 +88,7 @@ class __TwigTemplate_e5a18f8eef15ee1f8c5d3dd58dae7d29cfe6ee6bc513ae854b600ed2599
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Paiement de ma commande - La Boutique Française";
+        echo "Paiement de ma commande - Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -309,7 +309,7 @@ class __TwigTemplate_e5a18f8eef15ee1f8c5d3dd58dae7d29cfe6ee6bc513ae854b600ed2599
     <script src=\"https://js.stripe.com/v3/\"></script>
 {% endblock %}
 
-{% block title %}Paiement de ma commande - La Boutique Française{% endblock %}
+{% block title %}Paiement de ma commande - Sac de fringues{% endblock %}
 
 {% block content %}
     <h2>Mon récapitulatif</h2>
@@ -399,6 +399,6 @@ class __TwigTemplate_e5a18f8eef15ee1f8c5d3dd58dae7d29cfe6ee6bc513ae854b600ed2599
         });
     </script>
 {% endblock %}
-", "order/add.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/order/add.html.twig");
+", "order/add.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/order/add.html.twig");
     }
 }

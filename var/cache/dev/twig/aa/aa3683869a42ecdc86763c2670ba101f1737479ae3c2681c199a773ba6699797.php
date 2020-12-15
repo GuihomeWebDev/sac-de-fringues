@@ -155,6 +155,6 @@ class __TwigTemplate_67fe72256723fbe71e5ccddef167b50ac8a43deab25ced7214ac7467539
         </span>
     </button>
 {% endif %}
-", "@EasyAdmin/crud/action.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/action.html.twig");
+", "@EasyAdmin/crud/action.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/action.html.twig");
     }
 }

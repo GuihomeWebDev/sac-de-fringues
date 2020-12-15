@@ -95,6 +95,6 @@ class __TwigTemplate_da78deb3b95e312a6f859b9a9b2a2383a51e043c23e1365c961cc3e2289
 {% if ea_select2_locale != 'en' %}
     <script src=\"{{ asset('bundles/easyadmin/select2/i18n/' ~ ea_select2_locale ~ '.js') }}\"></script>
 {% endif %}
-", "@EasyAdmin/crud/includes/_select2_widget.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/includes/_select2_widget.html.twig");
+", "@EasyAdmin/crud/includes/_select2_widget.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/includes/_select2_widget.html.twig");
     }
 }

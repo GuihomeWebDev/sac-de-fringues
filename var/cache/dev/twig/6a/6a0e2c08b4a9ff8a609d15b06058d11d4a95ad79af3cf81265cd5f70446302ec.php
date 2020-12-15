@@ -65,7 +65,7 @@ class __TwigTemplate_0142cb33f8c76c6706bb3b664ed8aab446bb0b6d5df8f8af97ff0e76ad6
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Mes commandes - La Boutique Française";
+        echo "Mes commandes - Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -201,7 +201,7 @@ $context["order"], "state", [], "any", false, false, false, 35), 3))) {
     {
         return new Source("{% extends 'base.html.twig' %}
 
-{% block title %}Mes commandes - La Boutique Française{% endblock %}
+{% block title %}Mes commandes - Sac de fringues{% endblock %}
 
 {% block content %}
     <h1>Mes commandes</h1>
@@ -248,6 +248,6 @@ $context["order"], "state", [], "any", false, false, false, 35), 3))) {
 
 
     {% endif %}
-{% endblock %}", "account/order.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/account/order.html.twig");
+{% endblock %}", "account/order.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/account/order.html.twig");
     }
 }

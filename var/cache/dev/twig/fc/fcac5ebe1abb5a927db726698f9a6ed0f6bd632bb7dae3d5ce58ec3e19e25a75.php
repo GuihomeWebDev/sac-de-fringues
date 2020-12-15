@@ -65,7 +65,7 @@ class __TwigTemplate_a363c84872593f92c2984947d8f1944d739afb119b38d20925f83aaa671
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Ajouter une adresse- La Boutique Française";
+        echo "Ajouter une adresse- Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -166,7 +166,7 @@ class __TwigTemplate_a363c84872593f92c2984947d8f1944d739afb119b38d20925f83aaa671
     {
         return new Source("{% extends 'base.html.twig' %}
 
-{% block title %}Ajouter une adresse- La Boutique Française{% endblock %}
+{% block title %}Ajouter une adresse- Sac de fringues{% endblock %}
 
 {% block content %}
     <h1>Gérer mes adresses</h1>
@@ -186,6 +186,6 @@ class __TwigTemplate_a363c84872593f92c2984947d8f1944d739afb119b38d20925f83aaa671
     </div>
 
     {{ form_end(form) }}
-{% endblock %}", "account/address_form.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/account/address_form.html.twig");
+{% endblock %}", "account/address_form.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/account/address_form.html.twig");
     }
 }

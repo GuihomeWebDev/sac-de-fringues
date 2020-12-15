@@ -1671,6 +1671,6 @@ class __TwigTemplate_47a4213b3fefbffb738cdf99a057990479c587f353774b983759e7611db
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

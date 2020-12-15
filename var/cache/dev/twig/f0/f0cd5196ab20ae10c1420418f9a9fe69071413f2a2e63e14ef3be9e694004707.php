@@ -65,7 +65,7 @@ class __TwigTemplate_0160257770362e5bcadac69081a331baf0fbbc22dba17fd3b0193439887
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Mes adresses- La Boutique Française";
+        echo "Mes adresses- Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -179,9 +179,9 @@ class __TwigTemplate_0160257770362e5bcadac69081a331baf0fbbc22dba17fd3b0193439887
 
     public function getSourceContext()
     {
-        return new Source("{% extends 'base.html.twig' %}
+        return new Source(" {% extends 'base.html.twig' %}
 
-{% block title %}Mes adresses- La Boutique Française{% endblock %}
+{% block title %}Mes adresses- Sac de fringues{% endblock %}
 
 {% block content %}
     <a href=\"{{ path('account_address_add') }}\" class=\"btn btn-info btn-sm float-right\">Ajouter une adresse</a>
@@ -211,6 +211,6 @@ class __TwigTemplate_0160257770362e5bcadac69081a331baf0fbbc22dba17fd3b0193439887
             {% endfor %}
         </div>
     {% endif %}
-{% endblock %}", "account/address.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/account/address.html.twig");
+{% endblock %}", "account/address.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/account/address.html.twig");
     }
 }

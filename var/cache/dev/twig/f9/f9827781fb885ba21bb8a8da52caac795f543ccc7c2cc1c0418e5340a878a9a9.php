@@ -130,6 +130,6 @@ class __TwigTemplate_9f348bf0daefb4a51fb83665ce50fe09ccc9b55496aa2c86083446ccf0b
         </div>
     {% endif %}
 {% endif %}
-", "@EasyAdmin/flash_messages.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/flash_messages.html.twig");
+", "@EasyAdmin/flash_messages.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/easycorp/easyadmin-bundle/src/Resources/views/flash_messages.html.twig");
     }
 }

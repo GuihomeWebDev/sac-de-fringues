@@ -65,7 +65,7 @@ class __TwigTemplate_86a762b1f558436d497675e886ca81f3e4db3ccd7b6a38dfc0177bfed86
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Ma commandes - La Boutique Française";
+        echo "Ma commandes - Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -213,7 +213,7 @@ class __TwigTemplate_86a762b1f558436d497675e886ca81f3e4db3ccd7b6a38dfc0177bfed86
     {
         return new Source("{% extends 'base.html.twig' %}
 
-{% block title %}Ma commandes - La Boutique Française{% endblock %}
+{% block title %}Ma commandes - Sac de fringues{% endblock %}
 
 {% block content %}
     <h1>Ma commande {{ order.reference }}</h1>
@@ -260,6 +260,6 @@ class __TwigTemplate_86a762b1f558436d497675e886ca81f3e4db3ccd7b6a38dfc0177bfed86
         <strong>Livraison :</strong> {{ (order.carrierprice / 100)|number_format(2, ',', '.') }} €<br/>
         <strong>Total : </strong> {{ ((order.carrierPrice + order.getTotal) / 100)|number_format(2, ',', '.') }} €
     </div>
-{% endblock %}", "account/order_show.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/account/order_show.html.twig");
+{% endblock %}", "account/order_show.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/account/order_show.html.twig");
     }
 }

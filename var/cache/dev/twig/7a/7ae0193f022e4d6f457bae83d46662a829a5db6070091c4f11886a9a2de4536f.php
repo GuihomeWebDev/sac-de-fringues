@@ -65,7 +65,7 @@ class __TwigTemplate_8d8284a9709f4534a60f5c1b8042b3a8e3b34927e396b53ace241095695
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Mot de passe oublié - La Boutique Française";
+        echo "Mot de passe oublié - Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -144,7 +144,7 @@ class __TwigTemplate_8d8284a9709f4534a60f5c1b8042b3a8e3b34927e396b53ace241095695
     {
         return new Source("{% extends 'base.html.twig' %}
 
-{% block title %}Mot de passe oublié - La Boutique Française{% endblock %}
+{% block title %}Mot de passe oublié - Sac de fringues{% endblock %}
 
 {% block content %}
     <div class=\"block-small\">
@@ -164,6 +164,6 @@ class __TwigTemplate_8d8284a9709f4534a60f5c1b8042b3a8e3b34927e396b53ace241095695
         </form>
     </div>
 {% endblock %}
-", "reset_password/index.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/reset_password/index.html.twig");
+", "reset_password/index.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/reset_password/index.html.twig");
     }
 }

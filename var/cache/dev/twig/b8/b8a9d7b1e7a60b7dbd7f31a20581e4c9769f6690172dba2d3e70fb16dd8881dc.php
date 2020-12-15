@@ -70,6 +70,6 @@ class __TwigTemplate_1c0c34cbfb5dc95972118e1c4b35bfdc5104fbb2fe834059f341a4f4d8b
     public function getSourceContext()
     {
         return new Source("<span class=\"badge badge-secondary\">{{ 'label.null'|trans(domain = 'EasyAdminBundle') }}</span>
-", "@EasyAdmin/label/null.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/null.html.twig");
+", "@EasyAdmin/label/null.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/null.html.twig");
     }
 }

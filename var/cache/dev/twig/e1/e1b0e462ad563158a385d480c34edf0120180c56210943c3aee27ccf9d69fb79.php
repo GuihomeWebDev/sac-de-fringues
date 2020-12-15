@@ -171,6 +171,6 @@ class __TwigTemplate_d42ad8db9b62925e1b0a94aec2ec63acad18a7c54357727c4daf6c8fa58
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
     }
 }

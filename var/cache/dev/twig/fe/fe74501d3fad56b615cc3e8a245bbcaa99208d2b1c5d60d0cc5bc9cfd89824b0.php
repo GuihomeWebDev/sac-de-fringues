@@ -189,6 +189,6 @@ class __TwigTemplate_221b4cc4b8be47a7cf65502faff2185bd7944d8ada093f9a4a4db2987ea
 .timeline-graph .timeline-period {
     stroke-width: 0;
 }
-", "@WebProfiler/Collector/time.css.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.css.twig");
+", "@WebProfiler/Collector/time.css.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.css.twig");
     }
 }

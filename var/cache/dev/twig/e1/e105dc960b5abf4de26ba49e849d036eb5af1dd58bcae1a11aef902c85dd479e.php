@@ -71,6 +71,6 @@ class __TwigTemplate_31ed2b4a4a29657459fa6317276519b827da5fe936879154dbd29ad0ad8
     public function getSourceContext()
     {
         return new Source("{% extends \"@email/zurb_2/notification/body.html.twig\" %}
-", "@email/default/notification/body.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.html.twig");
+", "@email/default/notification/body.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.html.twig");
     }
 }

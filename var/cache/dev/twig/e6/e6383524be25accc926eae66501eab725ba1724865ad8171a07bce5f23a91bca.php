@@ -122,6 +122,6 @@ class __TwigTemplate_07edb8fd51d209325a2db2edd44b12b7199bb31fb2a4c5f6cd3d3b9995a
         {% endfor %}
     </tbody>
 </table>
-", "@WebProfiler/Profiler/table.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/table.html.twig");
+", "@WebProfiler/Profiler/table.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/table.html.twig");
     }
 }

@@ -65,7 +65,7 @@ class __TwigTemplate_6a2404faaadb3d2f389f0305002d69137af50b7117025b36f27ab866ea3
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "title"));
 
-        echo "Erreur de paiement - La Boutique Française";
+        echo "Erreur de paiement - Sac de fringues";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
 
@@ -134,7 +134,7 @@ class __TwigTemplate_6a2404faaadb3d2f389f0305002d69137af50b7117025b36f27ab866ea3
     {
         return new Source("{% extends 'base.html.twig' %}
 
-{% block title %}Erreur de paiement - La Boutique Française{% endblock %}
+{% block title %}Erreur de paiement - Sac de fringues{% endblock %}
 
 {% block content %}
     <h2>Erreur de paiement</h2>
@@ -145,6 +145,6 @@ class __TwigTemplate_6a2404faaadb3d2f389f0305002d69137af50b7117025b36f27ab866ea3
     </p>
     <a href=\"{{ path('order') }}\" class=\"btn btn-success\">Réessayer le paiement</a>
 {% endblock %}
-", "order_cancel/index.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/order_cancel/index.html.twig");
+", "order_cancel/index.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/order_cancel/index.html.twig");
     }
 }

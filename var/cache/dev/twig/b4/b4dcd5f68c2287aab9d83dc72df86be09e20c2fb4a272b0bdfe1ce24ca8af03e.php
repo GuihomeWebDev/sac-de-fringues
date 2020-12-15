@@ -55,7 +55,7 @@ class __TwigTemplate_cd9e737f163174e0c2048b91f6403e7383c5f2da3ad6fee2e76df9f4fdf
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "@EasyAdmin/crud/detail.html.twig"));
 
         // line 5
-        $context["__internal_2fc2bfeb09eb2ec6a90d01f4d89080c3f3b7c5ba8ce717a4797a1d1c0870fb43"] = twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, (isset($context["ea"]) || array_key_exists("ea", $context) ? $context["ea"] : (function () { throw new RuntimeError('Variable "ea" does not exist.', 5, $this->source); })()), "i18n", [], "any", false, false, false, 5), "translationDomain", [], "any", false, false, false, 5);
+        $context["__internal_314c18f3f970b7a699773664f9af21a26bbc1c797d1d58f395a67cdc1c283581"] = twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, (isset($context["ea"]) || array_key_exists("ea", $context) ? $context["ea"] : (function () { throw new RuntimeError('Variable "ea" does not exist.', 5, $this->source); })()), "i18n", [], "any", false, false, false, 5), "translationDomain", [], "any", false, false, false, 5);
         // line 3
         $this->getParent($context)->display($context, array_merge($this->blocks, $blocks));
         
@@ -124,7 +124,7 @@ class __TwigTemplate_cd9e737f163174e0c2048b91f6403e7383c5f2da3ad6fee2e76df9f4fdf
         // line 14
         echo "        ";
         echo (((null === (isset($context["custom_title"]) || array_key_exists("custom_title", $context) ? $context["custom_title"] : (function () { throw new RuntimeError('Variable "custom_title" does not exist.', 14, $this->source); })()))) ? ((isset($context["default_title"]) || array_key_exists("default_title", $context) ? $context["default_title"] : (function () { throw new RuntimeError('Variable "default_title" does not exist.', 14, $this->source); })())) : ($this->extensions['Symfony\Bridge\Twig\Extension\TranslationExtension']->trans((isset($context["custom_title"]) || array_key_exists("custom_title", $context) ? $context["custom_title"] : (function () { throw new RuntimeError('Variable "custom_title" does not exist.', 14, $this->source); })()), twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, (isset($context["ea"]) || array_key_exists("ea", $context) ? $context["ea"] : (function () { throw new RuntimeError('Variable "ea" does not exist.', 14, $this->source); })()), "i18n", [], "any", false, false, false, 14), "translationParameters", [], "any", false, false, false, 14),         // line 5
-(isset($context["__internal_2fc2bfeb09eb2ec6a90d01f4d89080c3f3b7c5ba8ce717a4797a1d1c0870fb43"]) || array_key_exists("__internal_2fc2bfeb09eb2ec6a90d01f4d89080c3f3b7c5ba8ce717a4797a1d1c0870fb43", $context) ? $context["__internal_2fc2bfeb09eb2ec6a90d01f4d89080c3f3b7c5ba8ce717a4797a1d1c0870fb43"] : (function () { throw new RuntimeError('Variable "__internal_2fc2bfeb09eb2ec6a90d01f4d89080c3f3b7c5ba8ce717a4797a1d1c0870fb43" does not exist.', 5, $this->source); })()))));
+(isset($context["__internal_314c18f3f970b7a699773664f9af21a26bbc1c797d1d58f395a67cdc1c283581"]) || array_key_exists("__internal_314c18f3f970b7a699773664f9af21a26bbc1c797d1d58f395a67cdc1c283581", $context) ? $context["__internal_314c18f3f970b7a699773664f9af21a26bbc1c797d1d58f395a67cdc1c283581"] : (function () { throw new RuntimeError('Variable "__internal_314c18f3f970b7a699773664f9af21a26bbc1c797d1d58f395a67cdc1c283581" does not exist.', 5, $this->source); })()))));
         $___internal_ac69ef3b6ec02d15a54695bd093e53648516fbda2c7681fe35f8df82d74430f5_ = ('' === $tmp = ob_get_clean()) ? '' : new Markup($tmp, $this->env->getCharset());
         // line 11
         echo twig_spaceless($___internal_ac69ef3b6ec02d15a54695bd093e53648516fbda2c7681fe35f8df82d74430f5_);
@@ -846,6 +846,6 @@ class __TwigTemplate_cd9e737f163174e0c2048b91f6403e7383c5f2da3ad6fee2e76df9f4fdf
         </dt>
     </div>
 {% endmacro %}
-", "@EasyAdmin/crud/detail.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/detail.html.twig");
+", "@EasyAdmin/crud/detail.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/detail.html.twig");
     }
 }

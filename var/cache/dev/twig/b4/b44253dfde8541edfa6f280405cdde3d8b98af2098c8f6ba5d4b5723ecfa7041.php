@@ -409,6 +409,6 @@ class __TwigTemplate_94355deea258be92a2ba781c6ca813f210a371a3f328525bc5b7184bcb7
 </ul>
 
 {% block main_menu_after %}{% endblock %}
-", "@EasyAdmin/menu.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/menu.html.twig");
+", "@EasyAdmin/menu.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/easycorp/easyadmin-bundle/src/Resources/views/menu.html.twig");
     }
 }

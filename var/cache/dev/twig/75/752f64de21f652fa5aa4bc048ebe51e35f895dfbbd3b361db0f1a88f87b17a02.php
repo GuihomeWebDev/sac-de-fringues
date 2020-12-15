@@ -233,6 +233,6 @@ class __TwigTemplate_87e7bbefbaa931022c11fbbb9979173a512f48d182f7b6ec30bbb9e7d47
     </div>
 
     <!-- /END THE FEATURETTES -->
-{% endblock %}", "home/index.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/home/index.html.twig");
+{% endblock %}", "home/index.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/home/index.html.twig");
     }
 }

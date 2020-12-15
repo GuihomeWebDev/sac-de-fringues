@@ -92,6 +92,6 @@ class __TwigTemplate_2c55024c8278c576c2fba79a4b9cb9676d0ed5a2496a5a470be1b6fd9f2
     <h5>{{ product.name }}</h5>
     <span class=\"product-subtitle\">{{ product.subtitle }}</span>
     <span class=\"product-price\">{{ (product.price / 100)|number_format(2, ',', '.') }} €</span>
-</div>", "product/single_product.html.twig", "/home/guihome/Workspace/la-boutique-francaise/templates/product/single_product.html.twig");
+</div>", "product/single_product.html.twig", "/home/guihome/Workspace/sac-de-fringues/templates/product/single_product.html.twig");
     }
 }

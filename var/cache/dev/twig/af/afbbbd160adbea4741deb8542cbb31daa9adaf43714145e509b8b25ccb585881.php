@@ -97,6 +97,6 @@ class __TwigTemplate_c112d1abd696d03fd835ad94e30efb3893a7f528da79f1f852d177e07e9
 <div id=\"{{ html_id }}\" class=\"ea-lightbox\">
     <img src=\"{{ asset(field.formattedValue) }}\">
 </div>
-", "@EasyAdmin/crud/field/image.html.twig", "/home/guihome/Workspace/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/image.html.twig");
+", "@EasyAdmin/crud/field/image.html.twig", "/home/guihome/Workspace/sac-de-fringues/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/image.html.twig");
     }
 }

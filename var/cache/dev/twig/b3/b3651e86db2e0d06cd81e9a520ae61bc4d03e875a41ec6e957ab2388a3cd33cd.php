@@ -99,6 +99,6 @@ class __TwigTemplate_2aa3d48f474bd5f1687e0c7433a7c8083ab1e5851149f6251b6fe25053f
 .container.body_default {
     border-top: 8px solid #aaaaaa;
 }
-", "@email/zurb_2/notification/local.css", "/home/guihome/Workspace/la-boutique-francaise/vendor/symfony/twig-bridge/Resources/views/Email/zurb_2/notification/local.css");
+", "@email/zurb_2/notification/local.css", "/home/guihome/Workspace/sac-de-fringues/vendor/symfony/twig-bridge/Resources/views/Email/zurb_2/notification/local.css");
     }
 }
