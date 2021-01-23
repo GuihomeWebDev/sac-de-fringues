@@ -2,7 +2,6 @@
 
 namespace App\Controller;
 
-use App\Classe\Cart;
 use App\Entity\Order;
 use App\Entity\Product;
 use Doctrine\ORM\EntityManagerInterface;
@@ -16,8 +15,12 @@ class StripeController extends AbstractController
 {
     /**
      * @Route("/commande/create-session/{reference}", name="stripe_create_session")
+     * @param EntityManagerInterface $entityManager
+     * @param $reference
+     * @return JsonResponse
+     * @throws \Stripe\Exception\ApiErrorException
      */
-    public function index(EntityManagerInterface $entityManager, Cart $cart, $reference)
+    public function index(EntityManagerInterface $entityManager, $reference)
     {
         $products_for_stripe = [];
         $YOUR_DOMAIN = 'http://127.0.0.1:8000';

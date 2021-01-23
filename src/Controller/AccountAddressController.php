@@ -28,6 +28,9 @@ class AccountAddressController extends AbstractController
 
     /**
      * @Route("/compte/ajouter-une-adresse", name="account_address_add")
+     * @param Cart $cart
+     * @param Request $request
+     * @return \Symfony\Component\HttpFoundation\RedirectResponse|\Symfony\Component\HttpFoundation\Response
      */
     public function add(Cart $cart, Request $request)
     {
@@ -55,6 +58,9 @@ class AccountAddressController extends AbstractController
 
     /**
      * @Route("/compte/modifier-une-adresse/{id}", name="account_address_edit")
+     * @param Request $request
+     * @param $id
+     * @return \Symfony\Component\HttpFoundation\RedirectResponse|\Symfony\Component\HttpFoundation\Response
      */
     public function edit(Request $request, $id)
     {

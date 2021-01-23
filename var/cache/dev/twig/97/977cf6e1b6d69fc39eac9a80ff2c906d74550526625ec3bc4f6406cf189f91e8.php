@@ -86,7 +86,7 @@ class __TwigTemplate_01918b405026e7607a0bca357f75d0e0ad8462e01cadd52faa287c7639e
 
         // line 6
         echo "    <h2>Je passe ma commande</h2>
-    <p>Choisissez vos préférences avant de passer votre commande sur La Boutique Française.</p>
+    <p>Choisissez vos préférences avant de passer votre commande sur Sac de Fringues.</p>
     <hr>
     <div class=\"row\">
         <div class=\"col-md-6\">
@@ -199,7 +199,7 @@ class __TwigTemplate_01918b405026e7607a0bca357f75d0e0ad8462e01cadd52faa287c7639e
 
 {% block content %}
     <h2>Je passe ma commande</h2>
-    <p>Choisissez vos préférences avant de passer votre commande sur La Boutique Française.</p>
+    <p>Choisissez vos préférences avant de passer votre commande sur Sac de Fringues.</p>
     <hr>
     <div class=\"row\">
         <div class=\"col-md-6\">
