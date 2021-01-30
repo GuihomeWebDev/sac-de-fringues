@@ -4,18 +4,20 @@
 
 {% block content %}
     <h2>Nous contacter</h2>
-    <p>N'hésitez pas à prendre contact avec notre équipe, nous vous répondrons dans les meilleurs délais.</p>
+    <p>Ce site est une application fictive afin de montrer un peu de mon travail.</p>
+    <p>Ce site à était réalisé avec symfony 5 les vues sont en twig</p>
     {% for message in app.flashes('notice') %}
         <div class="alert alert-info">{{ message }}</div>
     {% endfor %}
     <div class="row">
         <div class="col-md-8">{{ form(form) }}</div>
         <div class="col-md-4">
-            <strong>Sac de fringues</strong>
+            <strong>Concepteur GuihomeWebDev</strong>
             <hr>
-            06 10 11 12 13<br/>
-            15 av de la récupe, 75000 Paris.<br/>
-            contact@Sac de fringues.fr<br/>
+            <a href="https://guihomewebdev.github.io">Mon cv en ligne</a><br/>
+            <a href="https://github.com/GuihomeWebDev">Mon github</a><br/>
+            <a href="https://guihome02.github.io/">Mon Portfolio</a><br/>
+            
         </div>
     </div>
 
