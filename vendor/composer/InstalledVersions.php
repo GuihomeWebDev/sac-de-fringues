@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '7dd13b41eae1d9b3f9b3c6e4f9808b55002d62bf',
+    'reference' => '4411a126df3077aa4d8ed5813c098a5b14a0a93f',
     'name' => '__root__',
   ),
   'versions' => 
@@ -31,7 +31,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '7dd13b41eae1d9b3f9b3c6e4f9808b55002d62bf',
+      'reference' => '4411a126df3077aa4d8ed5813c098a5b14a0a93f',
     ),
     'composer/package-versions-deprecated' => 
     array (
@@ -724,6 +724,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '935d2c67912007f6d17b6c08a62050252c509129',
+    ),
+    'symfony/apache-pack' => 
+    array (
+      'pretty_version' => 'v1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3aa5818d73ad2551281fc58a75afd9ca82622e6c',
     ),
     'symfony/asset' => 
     array (
